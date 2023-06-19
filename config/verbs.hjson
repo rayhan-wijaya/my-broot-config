@@ -157,4 +157,4 @@ verbs: [
     key: alt-shift-c
     execution: ":copy_path"
   }
-}
+]
